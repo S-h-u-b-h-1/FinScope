@@ -11,6 +11,7 @@
         {/* Logo */}
         <div className="text-2xl font-bold">
             <Link to="/">FinScope</Link>
+            <a href="https://www.linkedin.com/in/shubhaang-kataruka-279a00274/" className="text-blue-500 hover:text-blue-400">    (Shubh1)</a>
         </div>
 
         {/* Desktop Menu */}

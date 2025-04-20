@@ -74,6 +74,8 @@
                 tools that drive smarter money decisions — without complexity or
                 cost.
             </p>
+            <br/>
+            <h4>Made By - Shubhaang Kataruka</h4>
             </div>
         </div>
         </main>
