@@ -1,6 +1,7 @@
     import React from "react";
     import { motion } from "framer-motion";
     import { BarChart3, Calculator, ShieldCheck } from "lucide-react";
+    import { Link } from "react-router-dom";
 
     const fadeUp = {
     hidden: { opacity: 0, y: 40 },
@@ -43,12 +44,12 @@
                 Simplify your financial journey, one calculation at a time.
             </p>
 
-            <a
-                href="/calculators"
+            <Link
+                to="/calculators"
                 className="inline-block bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 px-6 rounded-lg shadow-lg transition-transform transform hover:scale-105 duration-300"
             >
                 Try Our Tools 🚀
-            </a>
+            </Link>
             </motion.div>
 
             {/* Right Image */}
