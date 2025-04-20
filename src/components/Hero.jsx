@@ -161,7 +161,7 @@
             </motion.p>
 
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-            {["Shubhaang Kataruka ", "Ashok Kataruka", "Rishank Kataruka"].map(
+            {["Shubhaang Kataruka ", "Ashok Kataruka", "Sumaan Kataruka"].map(
                 (name, i) => (
                 <motion.div
                     key={name}
