@@ -44,7 +44,7 @@
             </p>
 
             <a
-                href="./calculators"
+                href="/calculators"
                 className="inline-block bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 px-6 rounded-lg shadow-lg transition-transform transform hover:scale-105 duration-300"
             >
                 Try Our Tools 🚀
