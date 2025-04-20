@@ -16,7 +16,7 @@
   function App() {
   return (
     <>
-      <BrowserRouter basename="/FinScope">
+      <BrowserRouter>
         <Routes>
           <Route path="/" element={<Home />}></Route>
           <Route path="/investment" element={<InvestmentCalculator />}></Route>
